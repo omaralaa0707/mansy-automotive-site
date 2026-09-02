@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- The fluted column that stands behind every car they photograph. -->
+  <g stroke="#8a6b1f" stroke-width="2.4" stroke-linecap="round">
+    <line x1="14" y1="8" x2="14" y2="40" />
+    <line x1="20" y1="8" x2="20" y2="40" />
+    <line x1="26" y1="8" x2="26" y2="40" />
+    <line x1="32" y1="8" x2="32" y2="40" />
+  </g>
+  <rect x="9" y="41" width="30" height="3.6" rx="1.4" fill="#a4142d" />
+</svg>
