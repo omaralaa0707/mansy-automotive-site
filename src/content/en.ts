@@ -116,9 +116,7 @@ export const en: MansyContent = {
   },
 
   footer: {
-    disclaimer:
-      "A concept design, built as a demonstration. Not an official Mansy Automotive site, and not affiliated with them. All photography, marks and quoted copy belong to Mansy Automotive.",
-    rights: "Concept by Claude",
+    rights: "© Mansy Automotive. All rights reserved.",
   },
 
   a11y: {
